@@ -1,5 +1,9 @@
 # nllab-PlotTemplates
-Plotting templates in Python and Julia. A gallery of basic plots and their code for you to adapt and use.
+[http://laohakunakorn.bio.ac.uk](http://laohakunakorn.bio.ac.uk)
+
+<img src="/assets/plotsgallery.png" width="400" alt="plots" align="center" hspace="40" vspace="15">
+
+Plotting templates in Python and Julia. A gallery of basic plots and their code for you to adapt and use. Interact with the Jupyter notebook to learn about plotting features, or use the script to generate all plots in the gallery.
 
 ## Installation: local
 To run locally, make sure you have Python 3 and pipenv installed. Clone and navigate to the repository, then run (for the first time)
