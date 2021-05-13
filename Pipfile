@@ -16,6 +16,7 @@ seaborn = "*"
 jupyter = "*"
 lxml = "*"
 scipy = "*"
+appnope = "*"
 
 [requires]
 python_version = "3.8"
